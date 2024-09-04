@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MarkedNet</name>
+    </assembly>
+    <members>
+        <member name="T:MarkedNet.BlockRules">
+            <summary>
+            Block-Level Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.NormalBlockRules">
+            <summary>
+            Normal Block Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.GfmBlockRules">
+            <summary>
+            GFM Block Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.TablesBlockRules">
+            <summary>
+            GFM + Tables Block Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.InlineLexer">
+            <summary>
+            Inline Lexer and Compiler
+            </summary>
+        </member>
+        <member name="M:MarkedNet.InlineLexer.Output(System.String)">
+            <summary>
+            Lexing/Compiling
+            </summary>
+        </member>
+        <member name="M:MarkedNet.InlineLexer.OutputLink(System.Collections.Generic.IList{System.String},MarkedNet.LinkObj)">
+            <summary>
+            Compile Link
+            </summary>
+        </member>
+        <member name="M:MarkedNet.InlineLexer.Mangle(System.String)">
+            <summary>
+            Mangle Links
+            </summary>
+        </member>
+        <member name="M:MarkedNet.InlineLexer.Smartypants(System.String)">
+            <summary>
+            Smartypants Transformations
+            </summary>
+        </member>
+        <member name="T:MarkedNet.InlineRules">
+            <summary>
+            Inline-Level Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.NormalInlineRules">
+            <summary>
+            Normal Inline Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.PedanticInlineRules">
+            <summary>
+            Pedantic Inline Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.GfmInlineRules">
+            <summary>
+            GFM Inline Grammar
+            </summary>
+        </member>
+        <member name="T:MarkedNet.BreaksInlineRules">
+            <summary>
+            GFM + Line Breaks Inline Grammar
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Lexer.Lex(System.String,MarkedNet.Options)">
+            <summary>
+            Static Lex Method
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Lexer.Lex(System.String)">
+            <summary>
+            Preprocessing
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Lexer.Token(System.String,System.Boolean,MarkedNet.TokensResult)">
+            <summary>
+            Lexing
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Parser.Parse(MarkedNet.TokensResult,MarkedNet.Options)">
+            <summary>
+            Static Parse Method
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Parser.Parse(MarkedNet.TokensResult)">
+            <summary>
+            Parse Loop
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Parser.Next">
+            <summary>
+            Next Token
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Parser.Peek">
+            <summary>
+            Preview Next Token
+            </summary>
+        </member>
+        <member name="M:MarkedNet.Parser.ParseText">
+            <summary>
+            Parse Text Tokens
+            </summary>    
+        </member>
+        <member name="M:MarkedNet.Parser.Tok">
+            <summary>
+            Parse Current Token
+            </summary>    
+        </member>
+    </members>
+</doc>

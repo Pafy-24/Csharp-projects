@@ -1,0 +1,419 @@
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\network_analyst\strings.bin
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_accurate_3d_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_accurate_3d_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_textured_3d_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_textured_3d_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\basic_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\basic_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\basic_usage_3d_depth_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\color_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\color_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\common_3d_rem_depth_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\deferred_full_screen_rem_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\full_screen_quad_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\magnifier_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\magnifier_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\measure_line_depth_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\measure_line_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\measure_line_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\modelline_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\modelline_3d_normal_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_sdf_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_sdf_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_overlay_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_overlay_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_rem_billboard_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_depth_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_normal_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_overlay_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_outline_3d_overlay_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_outline_3d_overlay_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_depth_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_normal_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_overlay_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_basic_texture_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_dilate_reduce_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_13x13_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_17x17_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_5x5_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_9x9_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_multi_texture_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_multi_ubo_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_selection_finalize_mask_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_selection_finalize_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_texture_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_texture_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_texture_scaled_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_tex_image_modify_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_vertex_texture_scaled_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_normal_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_normal_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_pick_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_pick_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_normal_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_normal_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_pick_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_pick_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_normal_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_normal_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_pick_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_pick_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\star_3d_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\star_3d_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\text_3d_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\text_3d_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draped_graphics_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draped_graphics_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_ground_overlay_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_ground_overlay_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_offscreen_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_offscreen_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_depth_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_depth_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_draw_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_draw_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_offscreen_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_offscreen_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_non_instanced_3d_depth_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_non_instanced_3d_normal_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\viewshed_post_process_3d_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_pattern_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_pattern_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_solid_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_solid_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_circle_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_circle_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_dd_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_dd_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_dd_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_dd_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_dd_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_dd_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_icon_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_icon_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_pattern_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_pattern_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_sdf_ps.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_sdf_vs.cso
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\Birdie-Database.accdb
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\runtimecore.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\runtimecoreAssembly.manifest
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\RuntimeCoreNet100_10.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\RuntimeCoreNet100_10.WPF.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.WPF.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\LanguageExt.Core.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.WPF.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\LanguageExt.Core.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\bs\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ca\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\hu\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\sl\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\uk\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\GeoLocalizare.baml
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\GeoLocalizare.g.cs
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1_Content.g.cs
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1_MarkupCompile.cache
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.g.resources
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\GeoLocalizare.AdminMenu.resources
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\GeoLocalizare.MainForm.resources
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\GeoLocalizare.Mamifere.resources
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\GeoLocalizare.Sign_In.resources
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\GeoLocalizare.Sign_Up.resources
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Programe\C#\Visual Studio\Parc-OLX\Aplicatie\MonitorizareParc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\network_analyst\strings.bin
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_accurate_3d_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_accurate_3d_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_textured_3d_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\atmosphere_textured_3d_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\basic_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\basic_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\basic_usage_3d_depth_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\color_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\color_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\common_3d_rem_depth_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\deferred_full_screen_rem_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\full_screen_quad_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\magnifier_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\magnifier_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\measure_line_depth_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\measure_line_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\measure_line_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\modelline_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\modelline_3d_normal_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_sdf_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_sdf_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_billboard_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_overlay_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_overlay_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_3d_rem_billboard_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_depth_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\point_cloud_3d_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_normal_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_overlay_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_3d_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_outline_3d_overlay_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polygon_outline_3d_overlay_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_depth_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_normal_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_overlay_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\polyline_3d_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_basic_texture_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_dilate_reduce_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_13x13_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_17x17_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_5x5_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_gauss_blur_9x9_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_multi_texture_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_multi_ubo_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_selection_finalize_mask_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_selection_finalize_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_texture_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_texture_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_texture_scaled_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_tex_image_modify_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\re_vertex_texture_scaled_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_normal_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_normal_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_pick_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_area_line_pick_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_normal_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_normal_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_pick_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_dynamic_marker_pick_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_normal_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_normal_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_pick_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\sequence_marker_pick_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\star_3d_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\star_3d_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\text_3d_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\text_3d_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draped_graphics_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draped_graphics_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_ground_overlay_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_ground_overlay_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_offscreen_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\tile_3d_rem_offscreen_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_depth_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_depth_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_draw_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_draw_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_offscreen_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_3d_rem_offscreen_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_non_instanced_3d_depth_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\trianglemesh_non_instanced_3d_normal_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\viewshed_post_process_3d_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_pattern_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_pattern_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_solid_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_background_solid_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_circle_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_circle_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_dd_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_dd_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_outline_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_dd_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_dd_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_pattern_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_dd_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_dd_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_fill_solid_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_icon_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_icon_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_pattern_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_pattern_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_line_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_sdf_ps.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\resources\shaders\vt_sdf_vs.cso
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\Birdie-Database.accdb
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.WPF.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\LanguageExt.Core.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\Esri.ArcGISRuntime.WPF.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\LanguageExt.Core.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\bs\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ca\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\hu\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\sl\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\uk\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\GeoLocalizare.baml
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\GeoLocalizare.g.cs
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1_Content.g.cs
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1_MarkupCompile.cache
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.g.resources
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\GeoLocalizare.AdminMenu.resources
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\GeoLocalizare.MainForm.resources
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\GeoLocalizare.Mamifere.resources
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\GeoLocalizare.Sign_In.resources
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\GeoLocalizare.Sign_Up.resources
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client32\runtimecore.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client32\runtimecoreAssembly.manifest
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client32\RuntimeCoreNet100_10.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client64\runtimecore.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client64\runtimecoreAssembly.manifest
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client64\RuntimeCoreNet100_10.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client32\RuntimeCoreNet100_10.WPF.dll
+E:\Programe\Github\Csharp-projects\AdministrareParc\App\WindowsFormsApp1\bin\Debug\ArcGISRuntime100.10\client64\RuntimeCoreNet100_10.WPF.dll

@@ -1,0 +1,14 @@
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\bin\Debug\netcoreapp3.1\WpfControlLibrary1.deps.json
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\bin\Debug\netcoreapp3.1\WpfControlLibrary1.dll
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\bin\Debug\netcoreapp3.1\WpfControlLibrary1.pdb
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1_MarkupCompile.cache
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1_MarkupCompile.lref
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1.g.resources
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1.AssemblyInfoInputs.cache
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1.AssemblyInfo.cs
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1.dll
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1.pdb
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WpfControlLibrary1.csprojAssemblyReference.cache
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WPFUserControl.g.cs
+E:\Parc-OLX\Aplicatie\MonitorizareParc\WpfControlLibrary1\obj\Debug\netcoreapp3.1\WPFUserControl.baml

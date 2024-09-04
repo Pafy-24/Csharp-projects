@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\geolocalizare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\geolocalizare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\sign in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sign in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\sign in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sign in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\windowsformsapp1\\sign in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sign in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\windowsformsapp1\\mamifere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mamifere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\windowsformsapp1\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841642E3-B40F-4AD6-A7E7-DEB56208AFC7}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\programe\\github\\csharp-projects\\administrareparc\\app\\windowsformsapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.Designer.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.Designer.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAADcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:47:30.176Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeoLocalizare.xaml.cs",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\GeoLocalizare.xaml.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\GeoLocalizare.xaml.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\GeoLocalizare.xaml.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\GeoLocalizare.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:15:24.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAhwL0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:13:05.136Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowsFormsApp1",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeToolTip": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T12:08:08.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sign In.Designer.cs",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign In.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sign In.Designer.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign In.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Sign In.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:23.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Globals.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Globals.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Globals.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Globals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:01.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sign In.cs",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign In.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sign In.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign In.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Sign In.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:52:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.resx",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-04T11:47:58.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\MainForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:44:00.909Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mamifere.cs [Design]",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Mamifere.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Mamifere.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Mamifere.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Mamifere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:44:00.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sign Up.cs [Design]",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign Up.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sign Up.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign Up.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Sign Up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:44:00.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sign In.cs [Design]",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign In.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sign In.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\Sign In.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Sign In.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:44:00.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminMenu.cs [Design]",
+              "DocumentMoniker": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AdminMenu.cs",
+              "ToolTip": "E:\\Programe\\Github\\Csharp-projects\\AdministrareParc\\App\\WindowsFormsApp1\\AdminMenu.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\AdminMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:48:26.894Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
