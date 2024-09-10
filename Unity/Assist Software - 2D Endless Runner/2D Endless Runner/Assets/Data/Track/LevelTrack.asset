@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a59bc044d6fd404daeb997697905e18, type: 3}
+  m_Name: LevelTrack
+  m_EditorClassIdentifier: 
+  _speedTrack: 10
+  _ceilingType: {fileID: 765175902585808294, guid: 4c831b8d0387ee34faa7fade6c9ecf9c,
+    type: 3}
+  _floorType: {fileID: 5631489956376801545, guid: 7a7941adeacfe4c4998aece135000286,
+    type: 3}
+  _backgroundType: {fileID: 1519818361471359886, guid: 30b999322876e8f49833f0bf5d7918ad,
+    type: 3}
+  _deathZone: {fileID: 1800801767877955595, guid: 4108eafc1d455de45869d81ba4422e9b,
+    type: 3}
+  _screenSpace: 15
+  _distanceBetweenCeilingFloor: 8

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9585d07d2572ebd47bd336ee885585f0, type: 3}
+  m_Name: LevelCollectables
+  m_EditorClassIdentifier: 
+  _spawnRateCoin: 0
+  _spawnRatePotion: 0
+  _prioritizationCollectablesType:
+    _max: 0
+    _min: 0
+  _coin: {fileID: 7436023160074802292, guid: 063169827d50a0847869a670a93bf3cb, type: 3}
+  _potion: {fileID: 3151268578629261393, guid: 6448509382c28a04ab4bca15b60f093a, type: 3}
